@@ -1,0 +1,85 @@
+
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url("background1.jpg") no-repeat;
+    background-size: cover;
+    background-position:center ;
+}
+header {
+     position: fixed;
+     top: 0;
+     left: 0; 
+     width: 100%;
+     padding: 20px 100px;
+     background: rgb(25, 25, 91);
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     z-index: 99 ;
+
+}
+
+.logo {
+    font-size: 2em;
+    color: aliceblue;
+    user-select: none;
+}
+
+.navigation a{
+   position: relative;
+   font-size: 1.1em;
+   color: aliceblue;
+   text-decoration: none;
+   font-weight: 500;
+   margin: 40px;
+
+}
+
+.navigation a::after{
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    width: 100%;
+    height: 3px;
+    background: white;
+    border-radius: 5px;
+    transform-origin:right;
+    transform: scaleX(0);
+    transition: transform .5s;
+
+}
+.navigation a:hover::after{
+    transform-origin: left;
+    transform:scaleX(1);
+}
+.navigation .login_button
+{
+    width: 130px;
+    height: 50px;
+    background:transparent ;
+    border: 2px solid white;
+    outline: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1.1em;
+    color: aliceblue;
+    font-weight: 500;
+    margin-left: 40px;
+    transition: .5s;
+}
+
+.navigation .login_button:hover{
+    background: white;
+    color: rgb(37, 18, 18);
+
+}
