@@ -1,0 +1,57 @@
+/* General Container Styling */
+.services-container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    padding: 0;
+    margin: 0;
+    padding-top: 100px;
+  }
+  
+  /* Hero Section Styling */
+  .services-hero {
+    background-color: #6d4b55;
+    padding: 60px 20px;
+    text-align: center;
+    
+  }
+  
+  .services-hero h1 {
+    font-size: 3rem;
+    color: #3c9c3c;
+    margin-bottom: 20px;
+  }
+  
+  .services-hero p {
+    font-size: 1.25rem;
+    color: #faf9f9;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  /* Services List Section Styling */
+  .services-list {
+    background-color: #ffffff;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .services-list h2 {
+    font-size: 2.5rem;
+    color: #3c9c3c;
+    margin-bottom: 20px;
+  }
+  
+  .services-list ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .services-list li {
+    font-size: 1.25rem;
+    color: #666;
+    max-width: 800px;
+    margin: 10px auto;
+    line-height: 1.6;
+  }
+  

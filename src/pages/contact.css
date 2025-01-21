@@ -1,0 +1,54 @@
+/* General Container Styling */
+.contact-container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* Hero Section Styling */
+  .contact-hero {
+    background-color: #6d4b55;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .contact-hero h1 {
+    font-size: 3rem;
+    color: #3c9c3c;
+    margin-bottom: 20px;
+  }
+  
+  .contact-hero p {
+    font-size: 1.25rem;
+    color: #fbfafa;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  /* Contact Information Section Styling */
+  .contact-info {
+    background-color: #ffffff;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .contact-info h2 {
+    font-size: 2.5rem;
+    color: #3c9c3c;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info p {
+    font-size: 1.25rem;
+    color: #666;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  .contact-info strong {
+    color: #333;
+  }
+  

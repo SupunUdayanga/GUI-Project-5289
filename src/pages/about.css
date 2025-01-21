@@ -1,0 +1,51 @@
+.about-container {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    padding: 20px; 
+    margin: 0;
+    padding-top: 100px; 
+    text-align: center; 
+  }
+  
+  /* Hero Section Styling */
+  .about-hero {
+    background-color: #6d4b55;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .about-hero h1 {
+    font-size: 3rem;
+    color: #3c9c3c;
+    margin-bottom: 20px;
+  }
+  
+  .about-hero p {
+    font-size: 1.25rem;
+    color: #f2efef;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
+  /* Mission Section Styling */
+  .about-mission {
+    background-color: #ffffff;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .about-mission h2 {
+    font-size: 2.5rem;
+    color: #3c9c3c;
+    margin-bottom: 20px;
+  }
+  
+  .about-mission p {
+    font-size: 1.25rem;
+    color: #666;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+  
