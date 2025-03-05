@@ -1,0 +1,78 @@
+﻿<Window x:Class="HappyPawsHubWPF.AddAppointmentWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Add Appointment"
+        WindowStartupLocation="CenterScreen"
+        Height="450" Width="400"
+        Background="#F5F5F5"
+        WindowStyle="None" 
+        ResizeMode="NoResize"
+        AllowsTransparency="True">
+
+    <Grid>
+        <Border Background="White" CornerRadius="10" Padding="20"
+                Margin="0,10,10,10" BorderBrush="Gray" BorderThickness="1">
+
+            <StackPanel>
+                <TextBlock Text="Add New Appointment" FontSize="20" FontWeight="Bold"
+                           TextAlignment="Center" Foreground="#333333" Margin="0,0,0,10"/>
+
+                <!-- Pet Type Dropdown -->
+                <TextBlock Text="Pet Type:" FontWeight="SemiBold"/>
+                <ComboBox Name="cbPetType" Margin="0,0,0,10">
+                    <ComboBoxItem Content="Dog"/>
+                    <ComboBoxItem Content="Cat"/>
+                    <ComboBoxItem Content="Bird"/>
+                    <ComboBoxItem Content="Rabbit"/>
+                    <ComboBoxItem Content="Other"/>
+                </ComboBox>
+
+                <TextBlock Text="Pet Name:" FontWeight="SemiBold"/>
+                <TextBox Name="txtPetName" Margin="0,0,0,10"/>
+
+                <TextBlock Text="Doctor Name:" FontWeight="SemiBold"/>
+                <ComboBox Name="cbDoctorName" Margin="0,0,0,10">
+                    <ComboBoxItem Content="Dr. 1"/>
+                    <ComboBoxItem Content="Dr. 2"/>
+                    <ComboBoxItem Content="Dr. 3"/>
+                    <ComboBoxItem Content="Dr. 4"/>
+                    <ComboBoxItem Content="Dr. 5"/>
+                </ComboBox>
+
+                <TextBlock Text="Date:" FontWeight="SemiBold"/>
+                <DatePicker Name="dpDate" Margin="0,0,0,10"/>
+
+                <TextBlock Text="Time:" FontWeight="SemiBold"/>
+                <ComboBox Name="cbTime" Margin="0,0,0,10">
+                    <ComboBoxItem Content="09:00 AM"/>
+                    <ComboBoxItem Content="09:30 AM"/>
+                    <ComboBoxItem Content="10:00 AM"/>
+                    <ComboBoxItem Content="10:30 AM"/>
+                    <ComboBoxItem Content="11:00 AM"/>
+                    <ComboBoxItem Content="11:30 AM"/>
+                    <ComboBoxItem Content="12:00 PM"/>
+                    <ComboBoxItem Content="12:30 PM"/>
+                    <ComboBoxItem Content="01:00 PM"/>
+                    <ComboBoxItem Content="01:30 PM"/>
+                    <ComboBoxItem Content="02:00 PM"/>
+                    <ComboBoxItem Content="02:30 PM"/>
+                    <ComboBoxItem Content="03:00 PM"/>
+                    <ComboBoxItem Content="03:30 PM"/>
+                    <ComboBoxItem Content="04:00 PM"/>
+                    <ComboBoxItem Content="04:30 PM"/>
+                    <ComboBoxItem Content="05:00 PM"/>
+                </ComboBox>
+
+                <!-- Control Buttons -->
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="10">
+                    <Button Content="Save" Click="SaveAppointment_Click"
+                            Background="#4CAF50" Foreground="White" Width="100"
+                            Height="35" Margin="5" BorderThickness="0"/>
+                    <Button Content="Cancel" Click="Close_Click"
+                            Background="#D32F2F" Foreground="White" Width="100"
+                            Height="35" Margin="5" BorderThickness="0"/>
+                </StackPanel>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

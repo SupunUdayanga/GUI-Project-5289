@@ -1,10 +1,59 @@
 {
-  "Appointments": [],
+  "Appointments": [
+    {
+      "id": "65bd",
+      "petType": "cat",
+      "petName": "browny",
+      "doctorName": "dr. athapattu",
+      "date": "2025-04-01",
+      "time": "06:12",
+      "userId": "bcbd"
+    },
+    {
+      "id": "a3b3",
+      "petType": "ed",
+      "petName": "dfc",
+      "doctorName": "dfwvg",
+      "date": "2025-04-02",
+      "time": "21:11",
+      "userId": "bcbd"
+    },
+    {
+      "id": "9b3c",
+      "petType": "ewr",
+      "petName": "rwtg",
+      "doctorName": "rwgh",
+      "date": "2025-03-26",
+      "time": "21:15",
+      "userId": "bcbd"
+    },
+    {
+      "id": "4d55",
+      "petType": "w2e3r3",
+      "petName": "qefr",
+      "doctorName": "deffbg",
+      "date": "2025-03-19",
+      "time": "20:14",
+      "userId": "bcbd"
+    }
+  ],
   "users": [
     {
       "id": "43d5",
       "name": "123",
       "email": "supudayanga14022@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "bcbd",
+      "name": "udayanga",
+      "email": "cyberwizards123@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "6617",
+      "name": "1234",
+      "email": "cyberwizards123@gmail.com",
       "password": "12345"
     }
   ]
