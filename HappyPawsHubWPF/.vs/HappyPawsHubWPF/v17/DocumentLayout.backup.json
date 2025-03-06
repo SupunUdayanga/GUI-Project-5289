@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\RegisterWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:HappyPawsHubWPF\\RegisterWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:HappyPawsHubWPF\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:HappyPawsHubWPF\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|c:\\users\\user\\source\\repos\\happypawshubwpf\\happypawshubwpf\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\registerwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\RegisterWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -27,16 +47,8 @@
       "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:HappyPawsHubWPF\\AddAppointmentWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:HappyPawsHubWPF\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:HappyPawsHubWPF\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Repositories\\AppointmentRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,24 +59,16 @@
       "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:HappyPawsHubWPF\\Dashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|c:\\users\\user\\source\\repos\\happypawshubwpf\\happypawshubwpf\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\dashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|c:\\users\\user\\source\\repos\\happypawshubwpf\\happypawshubwpf\\customconfirmationbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\customconfirmationbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\customconfirmationbox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|c:\\users\\user\\source\\repos\\happypawshubwpf\\happypawshubwpf\\customconfirmationbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\customconfirmationbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\customconfirmationbox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\custommessagebox.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\custommessagebox.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Repositories\\UserRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,10 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:HappyPawsHubWPF\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\happypawshubwpf\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{194C4C2A-221A-42AD-9628-DEF2EF0B76DF}|HappyPawsHubWPF\\HappyPawsHubWPF.csproj|solutionrelative:happypawshubwpf\\converters\\nulltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "CustomConfirmationBox.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\CustomConfirmationBox.xaml.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\CustomConfirmationBox.xaml.cs",
@@ -110,49 +110,48 @@
               "RelativeToolTip": "HappyPawsHubWPF\\CustomConfirmationBox.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T10:14:16.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:14:16.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CustomConfirmationBox.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\CustomConfirmationBox.xaml",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\CustomConfirmationBox.xaml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\CustomConfirmationBox.xaml",
               "RelativeToolTip": "HappyPawsHubWPF\\CustomConfirmationBox.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-05T10:13:35.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T10:13:35.934Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 2,
               "Title": "NullToVisibilityConverter.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Converters\\NullToVisibilityConverter.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\Converters\\NullToVisibilityConverter.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Converters\\NullToVisibilityConverter.cs",
               "RelativeToolTip": "HappyPawsHubWPF\\Converters\\NullToVisibilityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T07:34:14.287Z"
+              "WhenOpened": "2025-03-05T07:34:14.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "CustomMessageBox.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\CustomMessageBox.xaml.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\CustomMessageBox.xaml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\CustomMessageBox.xaml.cs",
               "RelativeToolTip": "HappyPawsHubWPF\\CustomMessageBox.xaml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T06:25:44.336Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "CustomMessageBox.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\CustomMessageBox.xaml",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\CustomMessageBox.xaml",
@@ -164,32 +163,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "RegisterWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\RegisterWindow.xaml.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\RegisterWindow.xaml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\RegisterWindow.xaml.cs",
               "RelativeToolTip": "HappyPawsHubWPF\\RegisterWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T10:53:19.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "RegisterWindow.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\RegisterWindow.xaml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\RegisterWindow.xaml",
               "RelativeToolTip": "HappyPawsHubWPF\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T10:52:32.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:52:32.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "EditAppointmentWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\EditAppointmentWindow.xaml.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\EditAppointmentWindow.xaml.cs",
@@ -197,24 +195,22 @@
               "RelativeToolTip": "HappyPawsHubWPF\\EditAppointmentWindow.xaml.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:44:24.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:44:24.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "EditAppointmentWindow.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\EditAppointmentWindow.xaml",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\EditAppointmentWindow.xaml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\EditAppointmentWindow.xaml",
               "RelativeToolTip": "HappyPawsHubWPF\\EditAppointmentWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T10:40:41.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:40:41.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "AddAppointmentWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\AddAppointmentWindow.xaml.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\AddAppointmentWindow.xaml.cs",
@@ -222,24 +218,22 @@
               "RelativeToolTip": "HappyPawsHubWPF\\AddAppointmentWindow.xaml.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:40:04.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:40:04.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "AddAppointmentWindow.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\AddAppointmentWindow.xaml",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\AddAppointmentWindow.xaml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\AddAppointmentWindow.xaml",
               "RelativeToolTip": "HappyPawsHubWPF\\AddAppointmentWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T10:39:36.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:39:36.467Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Dashboard.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Dashboard.xaml.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\Dashboard.xaml.cs",
@@ -247,24 +241,22 @@
               "RelativeToolTip": "HappyPawsHubWPF\\Dashboard.xaml.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:38:57.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:38:57.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Dashboard.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Dashboard.xaml",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\Dashboard.xaml",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Dashboard.xaml",
               "RelativeToolTip": "HappyPawsHubWPF\\Dashboard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-03T10:38:18.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:38:18.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AppointmentRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Repositories\\AppointmentRepository.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\Repositories\\AppointmentRepository.cs",
@@ -272,12 +264,11 @@
               "RelativeToolTip": "HappyPawsHubWPF\\Repositories\\AppointmentRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:37:26.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:37:26.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Models\\Appointment.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\Models\\Appointment.cs",
@@ -285,12 +276,11 @@
               "RelativeToolTip": "HappyPawsHubWPF\\Models\\Appointment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:35:50.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:35:50.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\Repositories\\UserRepository.cs",
@@ -298,12 +288,11 @@
               "RelativeToolTip": "HappyPawsHubWPF\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:34:39.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:34:39.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Models\\User.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\Models\\User.cs",
@@ -311,12 +300,11 @@
               "RelativeToolTip": "HappyPawsHubWPF\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:33:45.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:33:45.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "DatabaseHelper.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\Database\\DatabaseHelper.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\Database\\DatabaseHelper.cs",
@@ -324,12 +312,11 @@
               "RelativeToolTip": "HappyPawsHubWPF\\Database\\DatabaseHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T10:32:53.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T10:32:53.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\MainWindow.xaml",
@@ -341,13 +328,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "HappyPawsHubWPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\HappyPawsHubWPF\\HappyPawsHubWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "HappyPawsHubWPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-03T10:19:17.557Z",
               "EditorCaption": ""

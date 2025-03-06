@@ -12,7 +12,6 @@ namespace HappyPawsHubWPF
             Data.DatabaseHelper.InitializeDatabase();
         }
 
-
         private void BtnLogin_Click(object sender, RoutedEventArgs e)
         {
             var user = UserRepository.Login(txtEmail.Text, txtPassword.Password);
@@ -24,7 +23,7 @@ namespace HappyPawsHubWPF
             }
             else
             {
-                MessageBox.Show("Invalid login credentials.");
+                CustomMessageBox.ShowMessage("Invalid login credentials."); // Changed to CustomMessageBox
             }
         }
 
@@ -33,6 +32,5 @@ namespace HappyPawsHubWPF
             RegisterWindow registerWindow = new RegisterWindow();
             registerWindow.ShowDialog();
         }
-
     }
 }
